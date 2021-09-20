@@ -1,0 +1,44 @@
+astroid==2.4.2
+autopep8==1.5.4
+brotlipy==0.7.0
+certifi==2021.5.30
+cffi @ file:///opt/concourse/worker/volumes/live/506ff722-306a-4142-6379-cfea99aadbed/volume/cffi_1625814701363/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+cryptography @ file:///opt/concourse/worker/volumes/live/c515855a-effc-46df-74dc-542901b701da/volume/cryptography_1616769282442/work
+cssselect==1.1.0
+flake8==3.8.3
+h11==0.12.0
+h2==3.2.0
+hpack==3.0.0
+httpcore==0.13.3
+httpx==0.18.2
+hyperframe==5.2.0
+idna @ file:///tmp/build/80754af9/idna_1622654382723/work
+isort==5.5.2
+jedi==0.17.2
+lazy-object-proxy==1.4.3
+lxml @ file:///opt/concourse/worker/volumes/live/42fc56a4-88b4-4605-6037-9605f4e5eeeb/volume/lxml_1616443240194/work
+mccabe==0.6.1
+parso==0.7.1
+pluggy==0.13.1
+pycodestyle==2.6.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pydocstyle==5.1.1
+pyflakes==2.2.0
+pylint==2.6.0
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
+pyquery==1.4.3
+PySocks @ file:///opt/concourse/worker/volumes/live/85a5b906-0e08-41d9-6f59-084cee4e9492/volume/pysocks_1594394636991/work
+python-jsonrpc-server==0.4.0
+python-language-server==0.35.1
+requests @ file:///tmp/build/80754af9/requests_1629994808627/work
+rfc3986==1.4.0
+rope==0.17.0
+six==1.12.0
+sniffio==1.2.0
+snowballstemmer==2.0.0
+toml @ file:///tmp/build/80754af9/toml_1592853716807/work
+ujson==3.2.0
+urllib3 @ file:///tmp/build/80754af9/urllib3_1625084269274/work
+wrapt==1.12.1
+yapf==0.30.0
